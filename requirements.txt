@@ -1,0 +1,9 @@
+sqlalchemy
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg2-binary
+pika
+feedparser
+newspaper4k
+python-dateutil

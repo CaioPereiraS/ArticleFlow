@@ -1,0 +1,4 @@
+url,useHeaders,name
+http://feeds.foxnews.com/foxnews/latest,no,FoxNews
+https://nypost.com/feed/,no,NyPost
+https://feeds.npr.org/1001/rss.xml,no,NPR
